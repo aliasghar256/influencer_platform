@@ -1,0 +1,5052 @@
+[
+    {
+        "name": "Alice Johnson",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/alice_johnson.jpg",
+        "overall_score": 24,
+        "age": 29,
+        "followers": "346K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1356",
+        "years_active": 14,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1842,
+                    3935,
+                    2539,
+                    3688,
+                    1841,
+                    4682
+                ],
+                "engagement": [
+                    7904,
+                    5246,
+                    1971,
+                    6021,
+                    7183,
+                    2665
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    61,
+                    67,
+                    51,
+                    88,
+                    67
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 57,
+            "audience_engagement": 33,
+            "brand_value": 57,
+            "technical_skills": 66,
+            "marketing_impact": 60,
+            "networking": 27,
+            "innovation": 40
+        },
+        "detailed_attributes": {
+            "creativity": 80,
+            "production_quality": 4,
+            "consistency": 79,
+            "storytelling": 34,
+            "visual_style": 68,
+            "conversion_rate": 7,
+            "target_accuracy": 73,
+            "campaign_innovation": 13,
+            "market_awareness": 23,
+            "trend_leverage": 56,
+            "community_management": 22,
+            "response_time": 2,
+            "audience_retention": 39,
+            "call_to_action": 27,
+            "audience_growth": 14,
+            "collaboration_quality": 32,
+            "industry_connections": 54,
+            "event_presence": 52,
+            "partnership_value": 27,
+            "community_standing": 31,
+            "authenticity": 82,
+            "brand_integration": 56,
+            "professionalism": 53,
+            "brand_safety": 12,
+            "versatility": 26,
+            "content_innovation": 60,
+            "platform_pioneering": 30,
+            "format_evolution": 75,
+            "tech_integration": 29,
+            "trend_setting": 53,
+            "platform_expertise": 22,
+            "seo_understanding": 57,
+            "analytics_usage": 90,
+            "tech_adaptability": 36,
+            "cross_platform_skills": 67
+        }
+    },
+    {
+        "name": "Bob Smith",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/bob_smith.jpg",
+        "overall_score": 18,
+        "age": 48,
+        "followers": "3529K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3587",
+        "years_active": 13,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1081,
+                    3771,
+                    2214,
+                    2563,
+                    2912,
+                    3059
+                ],
+                "engagement": [
+                    9549,
+                    5916,
+                    7735,
+                    5584,
+                    2231,
+                    1464
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    60,
+                    70,
+                    73,
+                    53,
+                    50
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 70,
+            "audience_engagement": 63,
+            "brand_value": 86,
+            "technical_skills": 70,
+            "marketing_impact": 78,
+            "networking": 100,
+            "innovation": 70
+        },
+        "detailed_attributes": {
+            "creativity": 7,
+            "production_quality": 89,
+            "consistency": 46,
+            "storytelling": 100,
+            "visual_style": 24,
+            "conversion_rate": 61,
+            "target_accuracy": 70,
+            "campaign_innovation": 92,
+            "market_awareness": 27,
+            "trend_leverage": 6,
+            "community_management": 82,
+            "response_time": 58,
+            "audience_retention": 77,
+            "call_to_action": 37,
+            "audience_growth": 81,
+            "collaboration_quality": 76,
+            "industry_connections": 14,
+            "event_presence": 15,
+            "partnership_value": 25,
+            "community_standing": 24,
+            "authenticity": 40,
+            "brand_integration": 77,
+            "professionalism": 49,
+            "brand_safety": 68,
+            "versatility": 90,
+            "content_innovation": 66,
+            "platform_pioneering": 16,
+            "format_evolution": 91,
+            "tech_integration": 37,
+            "trend_setting": 65,
+            "platform_expertise": 56,
+            "seo_understanding": 78,
+            "analytics_usage": 4,
+            "tech_adaptability": 36,
+            "cross_platform_skills": 45
+        }
+    },
+    {
+        "name": "Charlie Davis",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/charlie_davis.jpg",
+        "overall_score": 24,
+        "age": 30,
+        "followers": "4915K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1964",
+        "years_active": 11,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3472,
+                    3979,
+                    4928,
+                    4136,
+                    4757,
+                    4305
+                ],
+                "engagement": [
+                    5674,
+                    2634,
+                    7264,
+                    6906,
+                    5309,
+                    5192
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    71,
+                    93,
+                    91,
+                    83,
+                    81
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 0,
+            "audience_engagement": 73,
+            "brand_value": 61,
+            "technical_skills": 88,
+            "marketing_impact": 91,
+            "networking": 65,
+            "innovation": 98
+        },
+        "detailed_attributes": {
+            "creativity": 11,
+            "production_quality": 53,
+            "consistency": 8,
+            "storytelling": 27,
+            "visual_style": 4,
+            "conversion_rate": 64,
+            "target_accuracy": 52,
+            "campaign_innovation": 26,
+            "market_awareness": 54,
+            "trend_leverage": 8,
+            "community_management": 67,
+            "response_time": 6,
+            "audience_retention": 66,
+            "call_to_action": 15,
+            "audience_growth": 19,
+            "collaboration_quality": 17,
+            "industry_connections": 5,
+            "event_presence": 15,
+            "partnership_value": 42,
+            "community_standing": 3,
+            "authenticity": 9,
+            "brand_integration": 12,
+            "professionalism": 13,
+            "brand_safety": 82,
+            "versatility": 55,
+            "content_innovation": 51,
+            "platform_pioneering": 86,
+            "format_evolution": 17,
+            "tech_integration": 28,
+            "trend_setting": 59,
+            "platform_expertise": 43,
+            "seo_understanding": 66,
+            "analytics_usage": 72,
+            "tech_adaptability": 79,
+            "cross_platform_skills": 32
+        }
+    },
+    {
+        "name": "Diana Roberts",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/diana_roberts.jpg",
+        "overall_score": 34,
+        "age": 23,
+        "followers": "994K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2670",
+        "years_active": 11,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3950,
+                    4749,
+                    3861,
+                    4102,
+                    1342,
+                    2842
+                ],
+                "engagement": [
+                    4088,
+                    6490,
+                    9856,
+                    7072,
+                    5105,
+                    3444
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    50,
+                    80,
+                    67,
+                    98,
+                    84
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 82,
+            "audience_engagement": 57,
+            "brand_value": 34,
+            "technical_skills": 49,
+            "marketing_impact": 2,
+            "networking": 34,
+            "innovation": 41
+        },
+        "detailed_attributes": {
+            "creativity": 70,
+            "production_quality": 55,
+            "consistency": 94,
+            "storytelling": 33,
+            "visual_style": 59,
+            "conversion_rate": 4,
+            "target_accuracy": 64,
+            "campaign_innovation": 34,
+            "market_awareness": 34,
+            "trend_leverage": 57,
+            "community_management": 79,
+            "response_time": 13,
+            "audience_retention": 65,
+            "call_to_action": 13,
+            "audience_growth": 46,
+            "collaboration_quality": 64,
+            "industry_connections": 37,
+            "event_presence": 41,
+            "partnership_value": 8,
+            "community_standing": 100,
+            "authenticity": 28,
+            "brand_integration": 57,
+            "professionalism": 0,
+            "brand_safety": 42,
+            "versatility": 56,
+            "content_innovation": 67,
+            "platform_pioneering": 3,
+            "format_evolution": 2,
+            "tech_integration": 11,
+            "trend_setting": 92,
+            "platform_expertise": 73,
+            "seo_understanding": 87,
+            "analytics_usage": 94,
+            "tech_adaptability": 54,
+            "cross_platform_skills": 76
+        }
+    },
+    {
+        "name": "Ethan Moore",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/ethan_moore.jpg",
+        "overall_score": 44,
+        "age": 26,
+        "followers": "866K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3068",
+        "years_active": 15,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4846,
+                    1099,
+                    2639,
+                    1509,
+                    837,
+                    2786
+                ],
+                "engagement": [
+                    9433,
+                    5310,
+                    5219,
+                    9199,
+                    8165,
+                    1942
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    60,
+                    96,
+                    98,
+                    80,
+                    95
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 42,
+            "audience_engagement": 97,
+            "brand_value": 27,
+            "technical_skills": 81,
+            "marketing_impact": 47,
+            "networking": 44,
+            "innovation": 59
+        },
+        "detailed_attributes": {
+            "creativity": 44,
+            "production_quality": 6,
+            "consistency": 46,
+            "storytelling": 54,
+            "visual_style": 35,
+            "conversion_rate": 86,
+            "target_accuracy": 96,
+            "campaign_innovation": 98,
+            "market_awareness": 13,
+            "trend_leverage": 15,
+            "community_management": 12,
+            "response_time": 76,
+            "audience_retention": 96,
+            "call_to_action": 92,
+            "audience_growth": 61,
+            "collaboration_quality": 12,
+            "industry_connections": 74,
+            "event_presence": 81,
+            "partnership_value": 56,
+            "community_standing": 67,
+            "authenticity": 90,
+            "brand_integration": 74,
+            "professionalism": 11,
+            "brand_safety": 81,
+            "versatility": 33,
+            "content_innovation": 68,
+            "platform_pioneering": 48,
+            "format_evolution": 96,
+            "tech_integration": 79,
+            "trend_setting": 99,
+            "platform_expertise": 56,
+            "seo_understanding": 80,
+            "analytics_usage": 48,
+            "tech_adaptability": 26,
+            "cross_platform_skills": 32
+        }
+    },
+    {
+        "name": "Fiona Clark",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/fiona_clark.jpg",
+        "overall_score": 89,
+        "age": 34,
+        "followers": "4903K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2076",
+        "years_active": 6,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2039,
+                    1604,
+                    1065,
+                    4471,
+                    2060,
+                    4688
+                ],
+                "engagement": [
+                    3506,
+                    3493,
+                    8248,
+                    6308,
+                    1861,
+                    4532
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    63,
+                    67,
+                    86,
+                    64,
+                    97
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 72,
+            "audience_engagement": 83,
+            "brand_value": 97,
+            "technical_skills": 59,
+            "marketing_impact": 94,
+            "networking": 26,
+            "innovation": 0
+        },
+        "detailed_attributes": {
+            "creativity": 22,
+            "production_quality": 22,
+            "consistency": 42,
+            "storytelling": 82,
+            "visual_style": 100,
+            "conversion_rate": 35,
+            "target_accuracy": 82,
+            "campaign_innovation": 32,
+            "market_awareness": 40,
+            "trend_leverage": 61,
+            "community_management": 88,
+            "response_time": 97,
+            "audience_retention": 62,
+            "call_to_action": 89,
+            "audience_growth": 56,
+            "collaboration_quality": 86,
+            "industry_connections": 54,
+            "event_presence": 55,
+            "partnership_value": 66,
+            "community_standing": 72,
+            "authenticity": 65,
+            "brand_integration": 78,
+            "professionalism": 50,
+            "brand_safety": 33,
+            "versatility": 20,
+            "content_innovation": 27,
+            "platform_pioneering": 100,
+            "format_evolution": 44,
+            "tech_integration": 52,
+            "trend_setting": 25,
+            "platform_expertise": 48,
+            "seo_understanding": 79,
+            "analytics_usage": 78,
+            "tech_adaptability": 82,
+            "cross_platform_skills": 53
+        }
+    },
+    {
+        "name": "George Hall",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/george_hall.jpg",
+        "overall_score": 56,
+        "age": 45,
+        "followers": "490K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2009",
+        "years_active": 4,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3400,
+                    1526,
+                    2747,
+                    4498,
+                    3191,
+                    4841
+                ],
+                "engagement": [
+                    3875,
+                    8888,
+                    9116,
+                    2144,
+                    2887,
+                    9780
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    55,
+                    88,
+                    61,
+                    96,
+                    90
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 24,
+            "audience_engagement": 20,
+            "brand_value": 91,
+            "technical_skills": 4,
+            "marketing_impact": 97,
+            "networking": 61,
+            "innovation": 37
+        },
+        "detailed_attributes": {
+            "creativity": 20,
+            "production_quality": 95,
+            "consistency": 53,
+            "storytelling": 76,
+            "visual_style": 67,
+            "conversion_rate": 92,
+            "target_accuracy": 79,
+            "campaign_innovation": 22,
+            "market_awareness": 22,
+            "trend_leverage": 74,
+            "community_management": 23,
+            "response_time": 74,
+            "audience_retention": 62,
+            "call_to_action": 15,
+            "audience_growth": 17,
+            "collaboration_quality": 97,
+            "industry_connections": 40,
+            "event_presence": 41,
+            "partnership_value": 21,
+            "community_standing": 78,
+            "authenticity": 60,
+            "brand_integration": 99,
+            "professionalism": 23,
+            "brand_safety": 35,
+            "versatility": 1,
+            "content_innovation": 100,
+            "platform_pioneering": 43,
+            "format_evolution": 40,
+            "tech_integration": 42,
+            "trend_setting": 74,
+            "platform_expertise": 35,
+            "seo_understanding": 19,
+            "analytics_usage": 88,
+            "tech_adaptability": 22,
+            "cross_platform_skills": 36
+        }
+    },
+    {
+        "name": "Hannah Young",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/hannah_young.jpg",
+        "overall_score": 13,
+        "age": 43,
+        "followers": "4592K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1706",
+        "years_active": 18,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    900,
+                    4797,
+                    3866,
+                    1881,
+                    4441,
+                    2204
+                ],
+                "engagement": [
+                    1765,
+                    8730,
+                    3895,
+                    7034,
+                    4080,
+                    4409
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    70,
+                    55,
+                    80,
+                    80,
+                    52
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 0,
+            "audience_engagement": 75,
+            "brand_value": 78,
+            "technical_skills": 60,
+            "marketing_impact": 28,
+            "networking": 85,
+            "innovation": 70
+        },
+        "detailed_attributes": {
+            "creativity": 66,
+            "production_quality": 53,
+            "consistency": 28,
+            "storytelling": 57,
+            "visual_style": 46,
+            "conversion_rate": 55,
+            "target_accuracy": 18,
+            "campaign_innovation": 13,
+            "market_awareness": 56,
+            "trend_leverage": 80,
+            "community_management": 93,
+            "response_time": 5,
+            "audience_retention": 12,
+            "call_to_action": 97,
+            "audience_growth": 37,
+            "collaboration_quality": 75,
+            "industry_connections": 12,
+            "event_presence": 11,
+            "partnership_value": 1,
+            "community_standing": 34,
+            "authenticity": 21,
+            "brand_integration": 9,
+            "professionalism": 34,
+            "brand_safety": 34,
+            "versatility": 34,
+            "content_innovation": 22,
+            "platform_pioneering": 58,
+            "format_evolution": 29,
+            "tech_integration": 0,
+            "trend_setting": 21,
+            "platform_expertise": 39,
+            "seo_understanding": 98,
+            "analytics_usage": 57,
+            "tech_adaptability": 65,
+            "cross_platform_skills": 13
+        }
+    },
+    {
+        "name": "Isaac Lewis",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/isaac_lewis.jpg",
+        "overall_score": 34,
+        "age": 53,
+        "followers": "2744K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4397",
+        "years_active": 11,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4020,
+                    920,
+                    1351,
+                    1286,
+                    2523,
+                    2843
+                ],
+                "engagement": [
+                    8941,
+                    2296,
+                    9367,
+                    1588,
+                    2494,
+                    7240
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    87,
+                    59,
+                    83,
+                    80,
+                    57
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 73,
+            "audience_engagement": 45,
+            "brand_value": 14,
+            "technical_skills": 79,
+            "marketing_impact": 58,
+            "networking": 52,
+            "innovation": 61
+        },
+        "detailed_attributes": {
+            "creativity": 1,
+            "production_quality": 15,
+            "consistency": 91,
+            "storytelling": 22,
+            "visual_style": 36,
+            "conversion_rate": 84,
+            "target_accuracy": 27,
+            "campaign_innovation": 69,
+            "market_awareness": 72,
+            "trend_leverage": 18,
+            "community_management": 98,
+            "response_time": 93,
+            "audience_retention": 43,
+            "call_to_action": 98,
+            "audience_growth": 15,
+            "collaboration_quality": 33,
+            "industry_connections": 22,
+            "event_presence": 99,
+            "partnership_value": 1,
+            "community_standing": 61,
+            "authenticity": 50,
+            "brand_integration": 10,
+            "professionalism": 88,
+            "brand_safety": 29,
+            "versatility": 91,
+            "content_innovation": 72,
+            "platform_pioneering": 22,
+            "format_evolution": 60,
+            "tech_integration": 5,
+            "trend_setting": 26,
+            "platform_expertise": 83,
+            "seo_understanding": 60,
+            "analytics_usage": 16,
+            "tech_adaptability": 34,
+            "cross_platform_skills": 75
+        }
+    },
+    {
+        "name": "Jenna Walker",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/jenna_walker.jpg",
+        "overall_score": 63,
+        "age": 21,
+        "followers": "3946K",
+        "profession": "Content Creator",
+        "rate_per_post": "$144",
+        "years_active": 14,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    991,
+                    1278,
+                    3537,
+                    2427,
+                    4684,
+                    4230
+                ],
+                "engagement": [
+                    7849,
+                    5895,
+                    4090,
+                    7584,
+                    8996,
+                    3597
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    71,
+                    87,
+                    76,
+                    75,
+                    67
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 35,
+            "audience_engagement": 84,
+            "brand_value": 4,
+            "technical_skills": 53,
+            "marketing_impact": 56,
+            "networking": 98,
+            "innovation": 84
+        },
+        "detailed_attributes": {
+            "creativity": 67,
+            "production_quality": 41,
+            "consistency": 94,
+            "storytelling": 39,
+            "visual_style": 53,
+            "conversion_rate": 37,
+            "target_accuracy": 6,
+            "campaign_innovation": 61,
+            "market_awareness": 37,
+            "trend_leverage": 33,
+            "community_management": 79,
+            "response_time": 60,
+            "audience_retention": 97,
+            "call_to_action": 91,
+            "audience_growth": 93,
+            "collaboration_quality": 29,
+            "industry_connections": 89,
+            "event_presence": 49,
+            "partnership_value": 70,
+            "community_standing": 7,
+            "authenticity": 2,
+            "brand_integration": 77,
+            "professionalism": 81,
+            "brand_safety": 29,
+            "versatility": 75,
+            "content_innovation": 41,
+            "platform_pioneering": 83,
+            "format_evolution": 9,
+            "tech_integration": 77,
+            "trend_setting": 10,
+            "platform_expertise": 97,
+            "seo_understanding": 2,
+            "analytics_usage": 17,
+            "tech_adaptability": 72,
+            "cross_platform_skills": 19
+        }
+    },
+    {
+        "name": "Kevin Allen",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/kevin_allen.jpg",
+        "overall_score": 83,
+        "age": 29,
+        "followers": "2009K",
+        "profession": "Content Creator",
+        "rate_per_post": "$604",
+        "years_active": 13,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4239,
+                    3217,
+                    786,
+                    4521,
+                    4870,
+                    1353
+                ],
+                "engagement": [
+                    7968,
+                    7994,
+                    6525,
+                    6204,
+                    1745,
+                    3678
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    94,
+                    78,
+                    85,
+                    91,
+                    66
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 64,
+            "audience_engagement": 23,
+            "brand_value": 48,
+            "technical_skills": 41,
+            "marketing_impact": 45,
+            "networking": 44,
+            "innovation": 61
+        },
+        "detailed_attributes": {
+            "creativity": 84,
+            "production_quality": 71,
+            "consistency": 19,
+            "storytelling": 67,
+            "visual_style": 42,
+            "conversion_rate": 68,
+            "target_accuracy": 65,
+            "campaign_innovation": 16,
+            "market_awareness": 92,
+            "trend_leverage": 45,
+            "community_management": 72,
+            "response_time": 82,
+            "audience_retention": 36,
+            "call_to_action": 57,
+            "audience_growth": 75,
+            "collaboration_quality": 7,
+            "industry_connections": 21,
+            "event_presence": 46,
+            "partnership_value": 4,
+            "community_standing": 40,
+            "authenticity": 1,
+            "brand_integration": 36,
+            "professionalism": 36,
+            "brand_safety": 82,
+            "versatility": 28,
+            "content_innovation": 58,
+            "platform_pioneering": 10,
+            "format_evolution": 41,
+            "tech_integration": 45,
+            "trend_setting": 19,
+            "platform_expertise": 77,
+            "seo_understanding": 45,
+            "analytics_usage": 22,
+            "tech_adaptability": 55,
+            "cross_platform_skills": 63
+        }
+    },
+    {
+        "name": "Laura Scott",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/laura_scott.jpg",
+        "overall_score": 58,
+        "age": 19,
+        "followers": "888K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2373",
+        "years_active": 2,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4186,
+                    3322,
+                    974,
+                    686,
+                    748,
+                    4871
+                ],
+                "engagement": [
+                    8151,
+                    6268,
+                    2422,
+                    6479,
+                    5037,
+                    3403
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    63,
+                    80,
+                    91,
+                    70,
+                    55
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 21,
+            "audience_engagement": 14,
+            "brand_value": 69,
+            "technical_skills": 73,
+            "marketing_impact": 76,
+            "networking": 65,
+            "innovation": 51
+        },
+        "detailed_attributes": {
+            "creativity": 10,
+            "production_quality": 80,
+            "consistency": 11,
+            "storytelling": 14,
+            "visual_style": 96,
+            "conversion_rate": 48,
+            "target_accuracy": 74,
+            "campaign_innovation": 98,
+            "market_awareness": 8,
+            "trend_leverage": 75,
+            "community_management": 85,
+            "response_time": 25,
+            "audience_retention": 92,
+            "call_to_action": 78,
+            "audience_growth": 99,
+            "collaboration_quality": 43,
+            "industry_connections": 20,
+            "event_presence": 97,
+            "partnership_value": 77,
+            "community_standing": 98,
+            "authenticity": 41,
+            "brand_integration": 45,
+            "professionalism": 68,
+            "brand_safety": 46,
+            "versatility": 47,
+            "content_innovation": 50,
+            "platform_pioneering": 9,
+            "format_evolution": 78,
+            "tech_integration": 24,
+            "trend_setting": 13,
+            "platform_expertise": 8,
+            "seo_understanding": 61,
+            "analytics_usage": 65,
+            "tech_adaptability": 96,
+            "cross_platform_skills": 44
+        }
+    },
+    {
+        "name": "Michael Adams",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/michael_adams.jpg",
+        "overall_score": 41,
+        "age": 18,
+        "followers": "485K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4508",
+        "years_active": 15,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    719,
+                    4619,
+                    905,
+                    2199,
+                    2172,
+                    2830
+                ],
+                "engagement": [
+                    6824,
+                    8617,
+                    7737,
+                    3347,
+                    9122,
+                    7936
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    71,
+                    90,
+                    50,
+                    52,
+                    56
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 11,
+            "audience_engagement": 64,
+            "brand_value": 87,
+            "technical_skills": 29,
+            "marketing_impact": 54,
+            "networking": 66,
+            "innovation": 27
+        },
+        "detailed_attributes": {
+            "creativity": 100,
+            "production_quality": 15,
+            "consistency": 74,
+            "storytelling": 94,
+            "visual_style": 22,
+            "conversion_rate": 2,
+            "target_accuracy": 21,
+            "campaign_innovation": 6,
+            "market_awareness": 41,
+            "trend_leverage": 5,
+            "community_management": 16,
+            "response_time": 55,
+            "audience_retention": 94,
+            "call_to_action": 30,
+            "audience_growth": 55,
+            "collaboration_quality": 71,
+            "industry_connections": 24,
+            "event_presence": 7,
+            "partnership_value": 28,
+            "community_standing": 95,
+            "authenticity": 92,
+            "brand_integration": 32,
+            "professionalism": 60,
+            "brand_safety": 55,
+            "versatility": 4,
+            "content_innovation": 39,
+            "platform_pioneering": 94,
+            "format_evolution": 1,
+            "tech_integration": 42,
+            "trend_setting": 53,
+            "platform_expertise": 59,
+            "seo_understanding": 88,
+            "analytics_usage": 82,
+            "tech_adaptability": 56,
+            "cross_platform_skills": 63
+        }
+    },
+    {
+        "name": "Nina Carter",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/nina_carter.jpg",
+        "overall_score": 22,
+        "age": 36,
+        "followers": "1869K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1254",
+        "years_active": 18,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    663,
+                    2555,
+                    2590,
+                    4122,
+                    2935,
+                    3434
+                ],
+                "engagement": [
+                    9373,
+                    6841,
+                    3802,
+                    7489,
+                    9193,
+                    5885
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    81,
+                    80,
+                    88,
+                    97,
+                    72
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 17,
+            "audience_engagement": 47,
+            "brand_value": 19,
+            "technical_skills": 97,
+            "marketing_impact": 86,
+            "networking": 85,
+            "innovation": 4
+        },
+        "detailed_attributes": {
+            "creativity": 73,
+            "production_quality": 13,
+            "consistency": 100,
+            "storytelling": 0,
+            "visual_style": 22,
+            "conversion_rate": 79,
+            "target_accuracy": 89,
+            "campaign_innovation": 69,
+            "market_awareness": 37,
+            "trend_leverage": 88,
+            "community_management": 17,
+            "response_time": 32,
+            "audience_retention": 94,
+            "call_to_action": 65,
+            "audience_growth": 64,
+            "collaboration_quality": 48,
+            "industry_connections": 35,
+            "event_presence": 45,
+            "partnership_value": 7,
+            "community_standing": 41,
+            "authenticity": 61,
+            "brand_integration": 7,
+            "professionalism": 78,
+            "brand_safety": 50,
+            "versatility": 34,
+            "content_innovation": 59,
+            "platform_pioneering": 60,
+            "format_evolution": 58,
+            "tech_integration": 96,
+            "trend_setting": 83,
+            "platform_expertise": 37,
+            "seo_understanding": 6,
+            "analytics_usage": 15,
+            "tech_adaptability": 67,
+            "cross_platform_skills": 1
+        }
+    },
+    {
+        "name": "Oliver Nelson",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/oliver_nelson.jpg",
+        "overall_score": 76,
+        "age": 37,
+        "followers": "3834K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3730",
+        "years_active": 20,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1996,
+                    1776,
+                    3210,
+                    964,
+                    4110,
+                    3793
+                ],
+                "engagement": [
+                    3344,
+                    4441,
+                    3254,
+                    9012,
+                    2850,
+                    5243
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    69,
+                    96,
+                    93,
+                    57,
+                    92
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 6,
+            "audience_engagement": 13,
+            "brand_value": 72,
+            "technical_skills": 86,
+            "marketing_impact": 3,
+            "networking": 11,
+            "innovation": 32
+        },
+        "detailed_attributes": {
+            "creativity": 66,
+            "production_quality": 42,
+            "consistency": 33,
+            "storytelling": 28,
+            "visual_style": 4,
+            "conversion_rate": 73,
+            "target_accuracy": 12,
+            "campaign_innovation": 33,
+            "market_awareness": 26,
+            "trend_leverage": 87,
+            "community_management": 59,
+            "response_time": 57,
+            "audience_retention": 32,
+            "call_to_action": 24,
+            "audience_growth": 6,
+            "collaboration_quality": 5,
+            "industry_connections": 17,
+            "event_presence": 78,
+            "partnership_value": 65,
+            "community_standing": 57,
+            "authenticity": 40,
+            "brand_integration": 5,
+            "professionalism": 54,
+            "brand_safety": 90,
+            "versatility": 84,
+            "content_innovation": 86,
+            "platform_pioneering": 16,
+            "format_evolution": 66,
+            "tech_integration": 67,
+            "trend_setting": 57,
+            "platform_expertise": 35,
+            "seo_understanding": 77,
+            "analytics_usage": 49,
+            "tech_adaptability": 83,
+            "cross_platform_skills": 16
+        }
+    },
+    {
+        "name": "Paula Baker",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/paula_baker.jpg",
+        "overall_score": 31,
+        "age": 32,
+        "followers": "4167K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3844",
+        "years_active": 10,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3016,
+                    1379,
+                    4382,
+                    954,
+                    1537,
+                    2211
+                ],
+                "engagement": [
+                    2548,
+                    9424,
+                    2686,
+                    3357,
+                    7179,
+                    3005
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    86,
+                    73,
+                    53,
+                    78,
+                    63
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 38,
+            "audience_engagement": 66,
+            "brand_value": 20,
+            "technical_skills": 8,
+            "marketing_impact": 73,
+            "networking": 49,
+            "innovation": 90
+        },
+        "detailed_attributes": {
+            "creativity": 38,
+            "production_quality": 21,
+            "consistency": 31,
+            "storytelling": 73,
+            "visual_style": 40,
+            "conversion_rate": 65,
+            "target_accuracy": 15,
+            "campaign_innovation": 77,
+            "market_awareness": 75,
+            "trend_leverage": 45,
+            "community_management": 37,
+            "response_time": 24,
+            "audience_retention": 19,
+            "call_to_action": 75,
+            "audience_growth": 28,
+            "collaboration_quality": 78,
+            "industry_connections": 1,
+            "event_presence": 7,
+            "partnership_value": 90,
+            "community_standing": 69,
+            "authenticity": 90,
+            "brand_integration": 11,
+            "professionalism": 85,
+            "brand_safety": 55,
+            "versatility": 20,
+            "content_innovation": 54,
+            "platform_pioneering": 99,
+            "format_evolution": 66,
+            "tech_integration": 86,
+            "trend_setting": 36,
+            "platform_expertise": 63,
+            "seo_understanding": 75,
+            "analytics_usage": 35,
+            "tech_adaptability": 95,
+            "cross_platform_skills": 0
+        }
+    },
+    {
+        "name": "Quincy Edwards",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/quincy_edwards.jpg",
+        "overall_score": 62,
+        "age": 28,
+        "followers": "4493K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1051",
+        "years_active": 11,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2216,
+                    2471,
+                    4485,
+                    4630,
+                    2029,
+                    744
+                ],
+                "engagement": [
+                    9137,
+                    3471,
+                    8001,
+                    5578,
+                    6682,
+                    8394
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    90,
+                    93,
+                    92,
+                    94,
+                    88
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 38,
+            "audience_engagement": 34,
+            "brand_value": 45,
+            "technical_skills": 61,
+            "marketing_impact": 39,
+            "networking": 94,
+            "innovation": 7
+        },
+        "detailed_attributes": {
+            "creativity": 98,
+            "production_quality": 50,
+            "consistency": 16,
+            "storytelling": 74,
+            "visual_style": 94,
+            "conversion_rate": 22,
+            "target_accuracy": 25,
+            "campaign_innovation": 38,
+            "market_awareness": 38,
+            "trend_leverage": 82,
+            "community_management": 14,
+            "response_time": 97,
+            "audience_retention": 92,
+            "call_to_action": 74,
+            "audience_growth": 5,
+            "collaboration_quality": 29,
+            "industry_connections": 97,
+            "event_presence": 16,
+            "partnership_value": 43,
+            "community_standing": 60,
+            "authenticity": 36,
+            "brand_integration": 93,
+            "professionalism": 57,
+            "brand_safety": 37,
+            "versatility": 16,
+            "content_innovation": 27,
+            "platform_pioneering": 17,
+            "format_evolution": 22,
+            "tech_integration": 22,
+            "trend_setting": 73,
+            "platform_expertise": 39,
+            "seo_understanding": 51,
+            "analytics_usage": 9,
+            "tech_adaptability": 82,
+            "cross_platform_skills": 79
+        }
+    },
+    {
+        "name": "Rachel White",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/rachel_white.jpg",
+        "overall_score": 42,
+        "age": 29,
+        "followers": "76K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4022",
+        "years_active": 16,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3134,
+                    1209,
+                    3545,
+                    1879,
+                    4590,
+                    2698
+                ],
+                "engagement": [
+                    9124,
+                    2125,
+                    7891,
+                    9608,
+                    2955,
+                    5312
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    51,
+                    64,
+                    89,
+                    57,
+                    77
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 31,
+            "audience_engagement": 18,
+            "brand_value": 36,
+            "technical_skills": 0,
+            "marketing_impact": 57,
+            "networking": 86,
+            "innovation": 54
+        },
+        "detailed_attributes": {
+            "creativity": 53,
+            "production_quality": 58,
+            "consistency": 79,
+            "storytelling": 25,
+            "visual_style": 60,
+            "conversion_rate": 21,
+            "target_accuracy": 93,
+            "campaign_innovation": 1,
+            "market_awareness": 47,
+            "trend_leverage": 15,
+            "community_management": 51,
+            "response_time": 20,
+            "audience_retention": 11,
+            "call_to_action": 94,
+            "audience_growth": 11,
+            "collaboration_quality": 11,
+            "industry_connections": 60,
+            "event_presence": 18,
+            "partnership_value": 27,
+            "community_standing": 1,
+            "authenticity": 99,
+            "brand_integration": 16,
+            "professionalism": 42,
+            "brand_safety": 98,
+            "versatility": 13,
+            "content_innovation": 3,
+            "platform_pioneering": 56,
+            "format_evolution": 72,
+            "tech_integration": 50,
+            "trend_setting": 30,
+            "platform_expertise": 75,
+            "seo_understanding": 49,
+            "analytics_usage": 17,
+            "tech_adaptability": 0,
+            "cross_platform_skills": 26
+        }
+    },
+    {
+        "name": "Samuel Harris",
+        "category": "Travel",
+        "profile_picture": "https://example.com/profile_pictures/samuel_harris.jpg",
+        "overall_score": 93,
+        "age": 57,
+        "followers": "3292K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4298",
+        "years_active": 1,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4303,
+                    4117,
+                    1499,
+                    3122,
+                    4744,
+                    2471
+                ],
+                "engagement": [
+                    6651,
+                    8463,
+                    6994,
+                    5575,
+                    5387,
+                    4965
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    77,
+                    88,
+                    79,
+                    55,
+                    58
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 5,
+            "audience_engagement": 7,
+            "brand_value": 11,
+            "technical_skills": 57,
+            "marketing_impact": 24,
+            "networking": 45,
+            "innovation": 32
+        },
+        "detailed_attributes": {
+            "creativity": 45,
+            "production_quality": 80,
+            "consistency": 78,
+            "storytelling": 33,
+            "visual_style": 91,
+            "conversion_rate": 90,
+            "target_accuracy": 80,
+            "campaign_innovation": 17,
+            "market_awareness": 63,
+            "trend_leverage": 67,
+            "community_management": 29,
+            "response_time": 47,
+            "audience_retention": 32,
+            "call_to_action": 89,
+            "audience_growth": 83,
+            "collaboration_quality": 34,
+            "industry_connections": 96,
+            "event_presence": 58,
+            "partnership_value": 38,
+            "community_standing": 90,
+            "authenticity": 54,
+            "brand_integration": 89,
+            "professionalism": 56,
+            "brand_safety": 89,
+            "versatility": 53,
+            "content_innovation": 76,
+            "platform_pioneering": 3,
+            "format_evolution": 79,
+            "tech_integration": 59,
+            "trend_setting": 79,
+            "platform_expertise": 65,
+            "seo_understanding": 13,
+            "analytics_usage": 88,
+            "tech_adaptability": 40,
+            "cross_platform_skills": 27
+        }
+    },
+    {
+        "name": "Tina Thompson",
+        "category": "Travel",
+        "profile_picture": "https://example.com/profile_pictures/tina_thompson.jpg",
+        "overall_score": 66,
+        "age": 48,
+        "followers": "4512K",
+        "profession": "Content Creator",
+        "rate_per_post": "$838",
+        "years_active": 18,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3832,
+                    4769,
+                    502,
+                    2949,
+                    2124,
+                    1285
+                ],
+                "engagement": [
+                    5359,
+                    3777,
+                    6515,
+                    7978,
+                    2230,
+                    2479
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    80,
+                    93,
+                    80,
+                    71,
+                    68
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 68,
+            "audience_engagement": 34,
+            "brand_value": 15,
+            "technical_skills": 48,
+            "marketing_impact": 67,
+            "networking": 59,
+            "innovation": 16
+        },
+        "detailed_attributes": {
+            "creativity": 39,
+            "production_quality": 47,
+            "consistency": 52,
+            "storytelling": 45,
+            "visual_style": 77,
+            "conversion_rate": 63,
+            "target_accuracy": 92,
+            "campaign_innovation": 77,
+            "market_awareness": 80,
+            "trend_leverage": 18,
+            "community_management": 46,
+            "response_time": 27,
+            "audience_retention": 16,
+            "call_to_action": 37,
+            "audience_growth": 21,
+            "collaboration_quality": 77,
+            "industry_connections": 61,
+            "event_presence": 15,
+            "partnership_value": 68,
+            "community_standing": 41,
+            "authenticity": 44,
+            "brand_integration": 70,
+            "professionalism": 49,
+            "brand_safety": 69,
+            "versatility": 86,
+            "content_innovation": 28,
+            "platform_pioneering": 40,
+            "format_evolution": 74,
+            "tech_integration": 87,
+            "trend_setting": 34,
+            "platform_expertise": 17,
+            "seo_understanding": 43,
+            "analytics_usage": 11,
+            "tech_adaptability": 70,
+            "cross_platform_skills": 56
+        }
+    },
+    {
+        "name": "Umar King",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/umar_king.jpg",
+        "overall_score": 32,
+        "age": 35,
+        "followers": "3572K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3291",
+        "years_active": 4,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3772,
+                    2161,
+                    595,
+                    4707,
+                    2999,
+                    2336
+                ],
+                "engagement": [
+                    9722,
+                    3766,
+                    5965,
+                    3074,
+                    2335,
+                    6519
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    55,
+                    63,
+                    88,
+                    79,
+                    93
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 32,
+            "audience_engagement": 56,
+            "brand_value": 90,
+            "technical_skills": 46,
+            "marketing_impact": 83,
+            "networking": 1,
+            "innovation": 45
+        },
+        "detailed_attributes": {
+            "creativity": 68,
+            "production_quality": 74,
+            "consistency": 94,
+            "storytelling": 65,
+            "visual_style": 45,
+            "conversion_rate": 86,
+            "target_accuracy": 72,
+            "campaign_innovation": 4,
+            "market_awareness": 67,
+            "trend_leverage": 37,
+            "community_management": 25,
+            "response_time": 97,
+            "audience_retention": 10,
+            "call_to_action": 12,
+            "audience_growth": 22,
+            "collaboration_quality": 7,
+            "industry_connections": 94,
+            "event_presence": 97,
+            "partnership_value": 14,
+            "community_standing": 10,
+            "authenticity": 89,
+            "brand_integration": 39,
+            "professionalism": 94,
+            "brand_safety": 68,
+            "versatility": 58,
+            "content_innovation": 91,
+            "platform_pioneering": 84,
+            "format_evolution": 90,
+            "tech_integration": 34,
+            "trend_setting": 33,
+            "platform_expertise": 19,
+            "seo_understanding": 57,
+            "analytics_usage": 42,
+            "tech_adaptability": 94,
+            "cross_platform_skills": 59
+        }
+    },
+    {
+        "name": "Victoria Martinez",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/victoria_martinez.jpg",
+        "overall_score": 92,
+        "age": 41,
+        "followers": "2708K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1325",
+        "years_active": 6,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3133,
+                    3189,
+                    2206,
+                    2362,
+                    4425,
+                    2858
+                ],
+                "engagement": [
+                    2014,
+                    6494,
+                    5151,
+                    9201,
+                    4140,
+                    4669
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    75,
+                    85,
+                    94,
+                    83,
+                    54
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 16,
+            "audience_engagement": 23,
+            "brand_value": 11,
+            "technical_skills": 98,
+            "marketing_impact": 49,
+            "networking": 69,
+            "innovation": 58
+        },
+        "detailed_attributes": {
+            "creativity": 54,
+            "production_quality": 11,
+            "consistency": 66,
+            "storytelling": 52,
+            "visual_style": 91,
+            "conversion_rate": 74,
+            "target_accuracy": 62,
+            "campaign_innovation": 27,
+            "market_awareness": 22,
+            "trend_leverage": 10,
+            "community_management": 70,
+            "response_time": 23,
+            "audience_retention": 36,
+            "call_to_action": 14,
+            "audience_growth": 74,
+            "collaboration_quality": 71,
+            "industry_connections": 1,
+            "event_presence": 30,
+            "partnership_value": 83,
+            "community_standing": 78,
+            "authenticity": 31,
+            "brand_integration": 38,
+            "professionalism": 58,
+            "brand_safety": 2,
+            "versatility": 73,
+            "content_innovation": 47,
+            "platform_pioneering": 54,
+            "format_evolution": 67,
+            "tech_integration": 47,
+            "trend_setting": 36,
+            "platform_expertise": 31,
+            "seo_understanding": 31,
+            "analytics_usage": 30,
+            "tech_adaptability": 20,
+            "cross_platform_skills": 11
+        }
+    },
+    {
+        "name": "William Rodriguez",
+        "category": "Travel",
+        "profile_picture": "https://example.com/profile_pictures/william_rodriguez.jpg",
+        "overall_score": 29,
+        "age": 33,
+        "followers": "3644K",
+        "profession": "Content Creator",
+        "rate_per_post": "$542",
+        "years_active": 5,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3684,
+                    4923,
+                    2709,
+                    2054,
+                    934,
+                    4954
+                ],
+                "engagement": [
+                    5032,
+                    8983,
+                    8790,
+                    2730,
+                    9747,
+                    1990
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    88,
+                    85,
+                    87,
+                    85,
+                    55
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 48,
+            "audience_engagement": 82,
+            "brand_value": 8,
+            "technical_skills": 30,
+            "marketing_impact": 54,
+            "networking": 67,
+            "innovation": 83
+        },
+        "detailed_attributes": {
+            "creativity": 81,
+            "production_quality": 1,
+            "consistency": 9,
+            "storytelling": 59,
+            "visual_style": 18,
+            "conversion_rate": 64,
+            "target_accuracy": 57,
+            "campaign_innovation": 49,
+            "market_awareness": 67,
+            "trend_leverage": 13,
+            "community_management": 99,
+            "response_time": 67,
+            "audience_retention": 10,
+            "call_to_action": 3,
+            "audience_growth": 6,
+            "collaboration_quality": 21,
+            "industry_connections": 72,
+            "event_presence": 87,
+            "partnership_value": 54,
+            "community_standing": 39,
+            "authenticity": 47,
+            "brand_integration": 17,
+            "professionalism": 29,
+            "brand_safety": 89,
+            "versatility": 89,
+            "content_innovation": 20,
+            "platform_pioneering": 9,
+            "format_evolution": 76,
+            "tech_integration": 49,
+            "trend_setting": 18,
+            "platform_expertise": 28,
+            "seo_understanding": 13,
+            "analytics_usage": 51,
+            "tech_adaptability": 96,
+            "cross_platform_skills": 5
+        }
+    },
+    {
+        "name": "Xander Wright",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/xander_wright.jpg",
+        "overall_score": 53,
+        "age": 52,
+        "followers": "2225K",
+        "profession": "Content Creator",
+        "rate_per_post": "$387",
+        "years_active": 19,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2173,
+                    3292,
+                    4322,
+                    548,
+                    4238,
+                    2411
+                ],
+                "engagement": [
+                    3303,
+                    5650,
+                    5518,
+                    5907,
+                    4243,
+                    7552
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    92,
+                    57,
+                    97,
+                    90,
+                    76
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 83,
+            "audience_engagement": 3,
+            "brand_value": 63,
+            "technical_skills": 2,
+            "marketing_impact": 15,
+            "networking": 35,
+            "innovation": 93
+        },
+        "detailed_attributes": {
+            "creativity": 69,
+            "production_quality": 23,
+            "consistency": 15,
+            "storytelling": 37,
+            "visual_style": 34,
+            "conversion_rate": 49,
+            "target_accuracy": 35,
+            "campaign_innovation": 14,
+            "market_awareness": 21,
+            "trend_leverage": 7,
+            "community_management": 63,
+            "response_time": 46,
+            "audience_retention": 41,
+            "call_to_action": 25,
+            "audience_growth": 67,
+            "collaboration_quality": 7,
+            "industry_connections": 34,
+            "event_presence": 19,
+            "partnership_value": 40,
+            "community_standing": 16,
+            "authenticity": 74,
+            "brand_integration": 98,
+            "professionalism": 51,
+            "brand_safety": 33,
+            "versatility": 60,
+            "content_innovation": 94,
+            "platform_pioneering": 31,
+            "format_evolution": 62,
+            "tech_integration": 97,
+            "trend_setting": 23,
+            "platform_expertise": 26,
+            "seo_understanding": 51,
+            "analytics_usage": 67,
+            "tech_adaptability": 89,
+            "cross_platform_skills": 69
+        }
+    },
+    {
+        "name": "Yasmine Lopez",
+        "category": "Travel",
+        "profile_picture": "https://example.com/profile_pictures/yasmine_lopez.jpg",
+        "overall_score": 30,
+        "age": 46,
+        "followers": "4451K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1462",
+        "years_active": 20,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2727,
+                    3486,
+                    4674,
+                    901,
+                    2572,
+                    1534
+                ],
+                "engagement": [
+                    5202,
+                    1401,
+                    4761,
+                    9835,
+                    4263,
+                    1191
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    57,
+                    83,
+                    59,
+                    55,
+                    95
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 74,
+            "audience_engagement": 44,
+            "brand_value": 46,
+            "technical_skills": 50,
+            "marketing_impact": 34,
+            "networking": 54,
+            "innovation": 52
+        },
+        "detailed_attributes": {
+            "creativity": 0,
+            "production_quality": 67,
+            "consistency": 93,
+            "storytelling": 83,
+            "visual_style": 71,
+            "conversion_rate": 70,
+            "target_accuracy": 30,
+            "campaign_innovation": 69,
+            "market_awareness": 95,
+            "trend_leverage": 73,
+            "community_management": 52,
+            "response_time": 17,
+            "audience_retention": 8,
+            "call_to_action": 21,
+            "audience_growth": 49,
+            "collaboration_quality": 39,
+            "industry_connections": 34,
+            "event_presence": 13,
+            "partnership_value": 76,
+            "community_standing": 47,
+            "authenticity": 58,
+            "brand_integration": 20,
+            "professionalism": 35,
+            "brand_safety": 90,
+            "versatility": 7,
+            "content_innovation": 39,
+            "platform_pioneering": 38,
+            "format_evolution": 88,
+            "tech_integration": 25,
+            "trend_setting": 77,
+            "platform_expertise": 55,
+            "seo_understanding": 80,
+            "analytics_usage": 75,
+            "tech_adaptability": 21,
+            "cross_platform_skills": 59
+        }
+    },
+    {
+        "name": "Zachary Green",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/zachary_green.jpg",
+        "overall_score": 36,
+        "age": 48,
+        "followers": "1406K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1162",
+        "years_active": 9,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2186,
+                    4107,
+                    649,
+                    4356,
+                    615,
+                    1067
+                ],
+                "engagement": [
+                    7887,
+                    8496,
+                    8982,
+                    2934,
+                    8986,
+                    1367
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    69,
+                    66,
+                    69,
+                    65,
+                    99
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 83,
+            "audience_engagement": 43,
+            "brand_value": 22,
+            "technical_skills": 81,
+            "marketing_impact": 68,
+            "networking": 37,
+            "innovation": 99
+        },
+        "detailed_attributes": {
+            "creativity": 78,
+            "production_quality": 99,
+            "consistency": 96,
+            "storytelling": 35,
+            "visual_style": 99,
+            "conversion_rate": 30,
+            "target_accuracy": 16,
+            "campaign_innovation": 2,
+            "market_awareness": 19,
+            "trend_leverage": 31,
+            "community_management": 82,
+            "response_time": 89,
+            "audience_retention": 43,
+            "call_to_action": 34,
+            "audience_growth": 86,
+            "collaboration_quality": 13,
+            "industry_connections": 86,
+            "event_presence": 44,
+            "partnership_value": 79,
+            "community_standing": 80,
+            "authenticity": 15,
+            "brand_integration": 1,
+            "professionalism": 100,
+            "brand_safety": 39,
+            "versatility": 45,
+            "content_innovation": 43,
+            "platform_pioneering": 36,
+            "format_evolution": 59,
+            "tech_integration": 48,
+            "trend_setting": 71,
+            "platform_expertise": 82,
+            "seo_understanding": 26,
+            "analytics_usage": 46,
+            "tech_adaptability": 91,
+            "cross_platform_skills": 14
+        }
+    },
+    {
+        "name": "Abigail Turner",
+        "category": "Travel",
+        "profile_picture": "https://example.com/profile_pictures/abigail_turner.jpg",
+        "overall_score": 71,
+        "age": 51,
+        "followers": "3714K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1149",
+        "years_active": 19,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3210,
+                    4254,
+                    4153,
+                    791,
+                    1058,
+                    4442
+                ],
+                "engagement": [
+                    9419,
+                    8649,
+                    7835,
+                    7104,
+                    4199,
+                    8969
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    66,
+                    96,
+                    87,
+                    79,
+                    73
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 31,
+            "audience_engagement": 2,
+            "brand_value": 11,
+            "technical_skills": 82,
+            "marketing_impact": 7,
+            "networking": 28,
+            "innovation": 56
+        },
+        "detailed_attributes": {
+            "creativity": 4,
+            "production_quality": 66,
+            "consistency": 58,
+            "storytelling": 67,
+            "visual_style": 67,
+            "conversion_rate": 93,
+            "target_accuracy": 21,
+            "campaign_innovation": 55,
+            "market_awareness": 92,
+            "trend_leverage": 85,
+            "community_management": 53,
+            "response_time": 44,
+            "audience_retention": 95,
+            "call_to_action": 10,
+            "audience_growth": 91,
+            "collaboration_quality": 97,
+            "industry_connections": 86,
+            "event_presence": 40,
+            "partnership_value": 44,
+            "community_standing": 14,
+            "authenticity": 2,
+            "brand_integration": 48,
+            "professionalism": 66,
+            "brand_safety": 12,
+            "versatility": 90,
+            "content_innovation": 65,
+            "platform_pioneering": 20,
+            "format_evolution": 44,
+            "tech_integration": 38,
+            "trend_setting": 29,
+            "platform_expertise": 51,
+            "seo_understanding": 87,
+            "analytics_usage": 32,
+            "tech_adaptability": 83,
+            "cross_platform_skills": 71
+        }
+    },
+    {
+        "name": "Benjamin Phillips",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/benjamin_phillips.jpg",
+        "overall_score": 81,
+        "age": 21,
+        "followers": "3627K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4288",
+        "years_active": 10,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4487,
+                    4925,
+                    788,
+                    2335,
+                    4641,
+                    1288
+                ],
+                "engagement": [
+                    4553,
+                    5571,
+                    2966,
+                    4305,
+                    3877,
+                    4085
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    58,
+                    78,
+                    77,
+                    55,
+                    56
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 83,
+            "audience_engagement": 84,
+            "brand_value": 3,
+            "technical_skills": 71,
+            "marketing_impact": 23,
+            "networking": 22,
+            "innovation": 15
+        },
+        "detailed_attributes": {
+            "creativity": 19,
+            "production_quality": 84,
+            "consistency": 71,
+            "storytelling": 19,
+            "visual_style": 16,
+            "conversion_rate": 15,
+            "target_accuracy": 0,
+            "campaign_innovation": 7,
+            "market_awareness": 33,
+            "trend_leverage": 71,
+            "community_management": 85,
+            "response_time": 30,
+            "audience_retention": 0,
+            "call_to_action": 81,
+            "audience_growth": 71,
+            "collaboration_quality": 53,
+            "industry_connections": 95,
+            "event_presence": 19,
+            "partnership_value": 12,
+            "community_standing": 35,
+            "authenticity": 97,
+            "brand_integration": 95,
+            "professionalism": 29,
+            "brand_safety": 17,
+            "versatility": 89,
+            "content_innovation": 83,
+            "platform_pioneering": 100,
+            "format_evolution": 72,
+            "tech_integration": 81,
+            "trend_setting": 9,
+            "platform_expertise": 9,
+            "seo_understanding": 42,
+            "analytics_usage": 22,
+            "tech_adaptability": 46,
+            "cross_platform_skills": 75
+        }
+    },
+    {
+        "name": "Chloe Ward",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/chloe_ward.jpg",
+        "overall_score": 63,
+        "age": 55,
+        "followers": "2576K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4985",
+        "years_active": 20,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    814,
+                    1223,
+                    3930,
+                    3255,
+                    1058,
+                    1982
+                ],
+                "engagement": [
+                    3416,
+                    6006,
+                    8734,
+                    3745,
+                    3444,
+                    3716
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    91,
+                    56,
+                    60,
+                    70,
+                    55
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 37,
+            "audience_engagement": 89,
+            "brand_value": 55,
+            "technical_skills": 0,
+            "marketing_impact": 13,
+            "networking": 58,
+            "innovation": 32
+        },
+        "detailed_attributes": {
+            "creativity": 30,
+            "production_quality": 60,
+            "consistency": 83,
+            "storytelling": 31,
+            "visual_style": 25,
+            "conversion_rate": 70,
+            "target_accuracy": 30,
+            "campaign_innovation": 73,
+            "market_awareness": 59,
+            "trend_leverage": 44,
+            "community_management": 53,
+            "response_time": 71,
+            "audience_retention": 84,
+            "call_to_action": 41,
+            "audience_growth": 27,
+            "collaboration_quality": 71,
+            "industry_connections": 37,
+            "event_presence": 59,
+            "partnership_value": 84,
+            "community_standing": 43,
+            "authenticity": 90,
+            "brand_integration": 47,
+            "professionalism": 86,
+            "brand_safety": 12,
+            "versatility": 89,
+            "content_innovation": 64,
+            "platform_pioneering": 37,
+            "format_evolution": 23,
+            "tech_integration": 21,
+            "trend_setting": 5,
+            "platform_expertise": 36,
+            "seo_understanding": 5,
+            "analytics_usage": 81,
+            "tech_adaptability": 69,
+            "cross_platform_skills": 47
+        }
+    },
+    {
+        "name": "Daniel Foster",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/daniel_foster.jpg",
+        "overall_score": 95,
+        "age": 22,
+        "followers": "4563K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4118",
+        "years_active": 18,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3881,
+                    685,
+                    3111,
+                    673,
+                    702,
+                    2406
+                ],
+                "engagement": [
+                    9720,
+                    8102,
+                    2499,
+                    9085,
+                    3933,
+                    7651
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    92,
+                    93,
+                    56,
+                    50,
+                    61
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 47,
+            "audience_engagement": 15,
+            "brand_value": 86,
+            "technical_skills": 87,
+            "marketing_impact": 3,
+            "networking": 50,
+            "innovation": 47
+        },
+        "detailed_attributes": {
+            "creativity": 38,
+            "production_quality": 73,
+            "consistency": 18,
+            "storytelling": 53,
+            "visual_style": 5,
+            "conversion_rate": 34,
+            "target_accuracy": 26,
+            "campaign_innovation": 34,
+            "market_awareness": 80,
+            "trend_leverage": 11,
+            "community_management": 53,
+            "response_time": 50,
+            "audience_retention": 26,
+            "call_to_action": 24,
+            "audience_growth": 19,
+            "collaboration_quality": 99,
+            "industry_connections": 61,
+            "event_presence": 82,
+            "partnership_value": 46,
+            "community_standing": 29,
+            "authenticity": 11,
+            "brand_integration": 15,
+            "professionalism": 69,
+            "brand_safety": 80,
+            "versatility": 79,
+            "content_innovation": 9,
+            "platform_pioneering": 34,
+            "format_evolution": 46,
+            "tech_integration": 80,
+            "trend_setting": 49,
+            "platform_expertise": 88,
+            "seo_understanding": 43,
+            "analytics_usage": 57,
+            "tech_adaptability": 14,
+            "cross_platform_skills": 60
+        }
+    },
+    {
+        "name": "Elena Reed",
+        "category": "Travel",
+        "profile_picture": "https://example.com/profile_pictures/elena_reed.jpg",
+        "overall_score": 43,
+        "age": 51,
+        "followers": "4239K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1485",
+        "years_active": 17,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3639,
+                    1889,
+                    2832,
+                    3471,
+                    4946,
+                    4187
+                ],
+                "engagement": [
+                    1092,
+                    1420,
+                    8418,
+                    6251,
+                    9018,
+                    6904
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    64,
+                    56,
+                    96,
+                    55,
+                    93
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 88,
+            "audience_engagement": 22,
+            "brand_value": 29,
+            "technical_skills": 37,
+            "marketing_impact": 52,
+            "networking": 26,
+            "innovation": 89
+        },
+        "detailed_attributes": {
+            "creativity": 19,
+            "production_quality": 65,
+            "consistency": 34,
+            "storytelling": 90,
+            "visual_style": 39,
+            "conversion_rate": 97,
+            "target_accuracy": 50,
+            "campaign_innovation": 79,
+            "market_awareness": 96,
+            "trend_leverage": 95,
+            "community_management": 63,
+            "response_time": 51,
+            "audience_retention": 61,
+            "call_to_action": 72,
+            "audience_growth": 98,
+            "collaboration_quality": 76,
+            "industry_connections": 99,
+            "event_presence": 13,
+            "partnership_value": 68,
+            "community_standing": 66,
+            "authenticity": 32,
+            "brand_integration": 62,
+            "professionalism": 38,
+            "brand_safety": 59,
+            "versatility": 66,
+            "content_innovation": 39,
+            "platform_pioneering": 9,
+            "format_evolution": 82,
+            "tech_integration": 47,
+            "trend_setting": 32,
+            "platform_expertise": 50,
+            "seo_understanding": 4,
+            "analytics_usage": 39,
+            "tech_adaptability": 88,
+            "cross_platform_skills": 90
+        }
+    },
+    {
+        "name": "Frederick Bailey",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/frederick_bailey.jpg",
+        "overall_score": 35,
+        "age": 24,
+        "followers": "1990K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1692",
+        "years_active": 9,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4980,
+                    2984,
+                    1331,
+                    2762,
+                    1552,
+                    1938
+                ],
+                "engagement": [
+                    8322,
+                    1467,
+                    5131,
+                    7473,
+                    3402,
+                    5639
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    60,
+                    83,
+                    87,
+                    83,
+                    52
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 36,
+            "audience_engagement": 99,
+            "brand_value": 19,
+            "technical_skills": 66,
+            "marketing_impact": 45,
+            "networking": 96,
+            "innovation": 60
+        },
+        "detailed_attributes": {
+            "creativity": 77,
+            "production_quality": 37,
+            "consistency": 31,
+            "storytelling": 46,
+            "visual_style": 74,
+            "conversion_rate": 69,
+            "target_accuracy": 6,
+            "campaign_innovation": 8,
+            "market_awareness": 0,
+            "trend_leverage": 60,
+            "community_management": 31,
+            "response_time": 90,
+            "audience_retention": 19,
+            "call_to_action": 90,
+            "audience_growth": 82,
+            "collaboration_quality": 56,
+            "industry_connections": 26,
+            "event_presence": 17,
+            "partnership_value": 1,
+            "community_standing": 2,
+            "authenticity": 88,
+            "brand_integration": 10,
+            "professionalism": 0,
+            "brand_safety": 8,
+            "versatility": 0,
+            "content_innovation": 88,
+            "platform_pioneering": 42,
+            "format_evolution": 49,
+            "tech_integration": 58,
+            "trend_setting": 7,
+            "platform_expertise": 23,
+            "seo_understanding": 34,
+            "analytics_usage": 91,
+            "tech_adaptability": 69,
+            "cross_platform_skills": 23
+        }
+    },
+    {
+        "name": "Grace Rivera",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/grace_rivera.jpg",
+        "overall_score": 68,
+        "age": 19,
+        "followers": "2220K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3361",
+        "years_active": 4,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1073,
+                    4470,
+                    2842,
+                    670,
+                    3578,
+                    2341
+                ],
+                "engagement": [
+                    6084,
+                    4828,
+                    5985,
+                    4831,
+                    1468,
+                    2326
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    58,
+                    54,
+                    87,
+                    98,
+                    64
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 83,
+            "audience_engagement": 70,
+            "brand_value": 44,
+            "technical_skills": 80,
+            "marketing_impact": 80,
+            "networking": 62,
+            "innovation": 58
+        },
+        "detailed_attributes": {
+            "creativity": 43,
+            "production_quality": 27,
+            "consistency": 92,
+            "storytelling": 47,
+            "visual_style": 40,
+            "conversion_rate": 56,
+            "target_accuracy": 32,
+            "campaign_innovation": 70,
+            "market_awareness": 65,
+            "trend_leverage": 50,
+            "community_management": 90,
+            "response_time": 64,
+            "audience_retention": 24,
+            "call_to_action": 26,
+            "audience_growth": 50,
+            "collaboration_quality": 43,
+            "industry_connections": 36,
+            "event_presence": 43,
+            "partnership_value": 3,
+            "community_standing": 3,
+            "authenticity": 45,
+            "brand_integration": 74,
+            "professionalism": 24,
+            "brand_safety": 74,
+            "versatility": 90,
+            "content_innovation": 71,
+            "platform_pioneering": 67,
+            "format_evolution": 50,
+            "tech_integration": 23,
+            "trend_setting": 29,
+            "platform_expertise": 62,
+            "seo_understanding": 23,
+            "analytics_usage": 54,
+            "tech_adaptability": 16,
+            "cross_platform_skills": 2
+        }
+    },
+    {
+        "name": "Henry Brooks",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/henry_brooks.jpg",
+        "overall_score": 91,
+        "age": 59,
+        "followers": "1666K",
+        "profession": "Content Creator",
+        "rate_per_post": "$460",
+        "years_active": 2,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1850,
+                    3536,
+                    3730,
+                    4190,
+                    2174,
+                    4121
+                ],
+                "engagement": [
+                    4876,
+                    7959,
+                    1169,
+                    2212,
+                    1232,
+                    2568
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    85,
+                    72,
+                    65,
+                    87,
+                    78
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 4,
+            "audience_engagement": 90,
+            "brand_value": 24,
+            "technical_skills": 60,
+            "marketing_impact": 60,
+            "networking": 76,
+            "innovation": 55
+        },
+        "detailed_attributes": {
+            "creativity": 14,
+            "production_quality": 64,
+            "consistency": 95,
+            "storytelling": 61,
+            "visual_style": 25,
+            "conversion_rate": 3,
+            "target_accuracy": 61,
+            "campaign_innovation": 44,
+            "market_awareness": 98,
+            "trend_leverage": 13,
+            "community_management": 59,
+            "response_time": 56,
+            "audience_retention": 32,
+            "call_to_action": 4,
+            "audience_growth": 15,
+            "collaboration_quality": 81,
+            "industry_connections": 10,
+            "event_presence": 30,
+            "partnership_value": 23,
+            "community_standing": 100,
+            "authenticity": 17,
+            "brand_integration": 24,
+            "professionalism": 21,
+            "brand_safety": 73,
+            "versatility": 68,
+            "content_innovation": 20,
+            "platform_pioneering": 57,
+            "format_evolution": 67,
+            "tech_integration": 40,
+            "trend_setting": 30,
+            "platform_expertise": 68,
+            "seo_understanding": 96,
+            "analytics_usage": 38,
+            "tech_adaptability": 85,
+            "cross_platform_skills": 37
+        }
+    },
+    {
+        "name": "Isabella Murphy",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/isabella_murphy.jpg",
+        "overall_score": 99,
+        "age": 59,
+        "followers": "910K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3033",
+        "years_active": 19,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2767,
+                    2548,
+                    1090,
+                    2861,
+                    4812,
+                    4237
+                ],
+                "engagement": [
+                    5875,
+                    8247,
+                    9820,
+                    8952,
+                    6721,
+                    5808
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    52,
+                    88,
+                    71,
+                    68,
+                    76
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 61,
+            "audience_engagement": 90,
+            "brand_value": 79,
+            "technical_skills": 63,
+            "marketing_impact": 59,
+            "networking": 86,
+            "innovation": 29
+        },
+        "detailed_attributes": {
+            "creativity": 44,
+            "production_quality": 2,
+            "consistency": 88,
+            "storytelling": 26,
+            "visual_style": 81,
+            "conversion_rate": 39,
+            "target_accuracy": 5,
+            "campaign_innovation": 29,
+            "market_awareness": 90,
+            "trend_leverage": 64,
+            "community_management": 89,
+            "response_time": 6,
+            "audience_retention": 6,
+            "call_to_action": 62,
+            "audience_growth": 80,
+            "collaboration_quality": 69,
+            "industry_connections": 96,
+            "event_presence": 88,
+            "partnership_value": 1,
+            "community_standing": 99,
+            "authenticity": 90,
+            "brand_integration": 67,
+            "professionalism": 69,
+            "brand_safety": 16,
+            "versatility": 44,
+            "content_innovation": 81,
+            "platform_pioneering": 62,
+            "format_evolution": 20,
+            "tech_integration": 25,
+            "trend_setting": 87,
+            "platform_expertise": 35,
+            "seo_understanding": 15,
+            "analytics_usage": 49,
+            "tech_adaptability": 4,
+            "cross_platform_skills": 16
+        }
+    },
+    {
+        "name": "Jack Richardson",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/jack_richardson.jpg",
+        "overall_score": 92,
+        "age": 46,
+        "followers": "3093K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2969",
+        "years_active": 2,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4288,
+                    4599,
+                    1195,
+                    4224,
+                    1985,
+                    4522
+                ],
+                "engagement": [
+                    2753,
+                    8488,
+                    4007,
+                    3697,
+                    4470,
+                    1224
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    91,
+                    84,
+                    50,
+                    67,
+                    62
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 100,
+            "audience_engagement": 24,
+            "brand_value": 36,
+            "technical_skills": 85,
+            "marketing_impact": 14,
+            "networking": 37,
+            "innovation": 82
+        },
+        "detailed_attributes": {
+            "creativity": 27,
+            "production_quality": 63,
+            "consistency": 48,
+            "storytelling": 74,
+            "visual_style": 73,
+            "conversion_rate": 31,
+            "target_accuracy": 84,
+            "campaign_innovation": 51,
+            "market_awareness": 95,
+            "trend_leverage": 41,
+            "community_management": 79,
+            "response_time": 22,
+            "audience_retention": 96,
+            "call_to_action": 15,
+            "audience_growth": 88,
+            "collaboration_quality": 21,
+            "industry_connections": 11,
+            "event_presence": 73,
+            "partnership_value": 87,
+            "community_standing": 8,
+            "authenticity": 68,
+            "brand_integration": 91,
+            "professionalism": 71,
+            "brand_safety": 48,
+            "versatility": 90,
+            "content_innovation": 36,
+            "platform_pioneering": 57,
+            "format_evolution": 37,
+            "tech_integration": 50,
+            "trend_setting": 80,
+            "platform_expertise": 26,
+            "seo_understanding": 24,
+            "analytics_usage": 4,
+            "tech_adaptability": 89,
+            "cross_platform_skills": 97
+        }
+    },
+    {
+        "name": "Katherine Torres",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/katherine_torres.jpg",
+        "overall_score": 41,
+        "age": 51,
+        "followers": "3582K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3945",
+        "years_active": 7,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3439,
+                    2238,
+                    4413,
+                    3585,
+                    3039,
+                    1030
+                ],
+                "engagement": [
+                    4811,
+                    1742,
+                    8767,
+                    4951,
+                    6200,
+                    3509
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    62,
+                    64,
+                    51,
+                    71,
+                    59
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 64,
+            "audience_engagement": 25,
+            "brand_value": 1,
+            "technical_skills": 69,
+            "marketing_impact": 94,
+            "networking": 13,
+            "innovation": 94
+        },
+        "detailed_attributes": {
+            "creativity": 97,
+            "production_quality": 70,
+            "consistency": 12,
+            "storytelling": 72,
+            "visual_style": 85,
+            "conversion_rate": 12,
+            "target_accuracy": 88,
+            "campaign_innovation": 15,
+            "market_awareness": 72,
+            "trend_leverage": 98,
+            "community_management": 10,
+            "response_time": 62,
+            "audience_retention": 8,
+            "call_to_action": 23,
+            "audience_growth": 21,
+            "collaboration_quality": 19,
+            "industry_connections": 6,
+            "event_presence": 95,
+            "partnership_value": 72,
+            "community_standing": 53,
+            "authenticity": 79,
+            "brand_integration": 59,
+            "professionalism": 41,
+            "brand_safety": 95,
+            "versatility": 77,
+            "content_innovation": 94,
+            "platform_pioneering": 75,
+            "format_evolution": 59,
+            "tech_integration": 41,
+            "trend_setting": 100,
+            "platform_expertise": 34,
+            "seo_understanding": 92,
+            "analytics_usage": 1,
+            "tech_adaptability": 39,
+            "cross_platform_skills": 36
+        }
+    },
+    {
+        "name": "Leo Simmons",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/leo_simmons.jpg",
+        "overall_score": 88,
+        "age": 48,
+        "followers": "2387K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3182",
+        "years_active": 9,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4234,
+                    4312,
+                    4697,
+                    2125,
+                    3930,
+                    3023
+                ],
+                "engagement": [
+                    7940,
+                    8502,
+                    1678,
+                    6702,
+                    6141,
+                    5992
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    97,
+                    70,
+                    76,
+                    56,
+                    75
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 80,
+            "audience_engagement": 72,
+            "brand_value": 45,
+            "technical_skills": 16,
+            "marketing_impact": 93,
+            "networking": 69,
+            "innovation": 64
+        },
+        "detailed_attributes": {
+            "creativity": 71,
+            "production_quality": 57,
+            "consistency": 61,
+            "storytelling": 78,
+            "visual_style": 58,
+            "conversion_rate": 95,
+            "target_accuracy": 75,
+            "campaign_innovation": 97,
+            "market_awareness": 47,
+            "trend_leverage": 98,
+            "community_management": 96,
+            "response_time": 36,
+            "audience_retention": 18,
+            "call_to_action": 8,
+            "audience_growth": 61,
+            "collaboration_quality": 52,
+            "industry_connections": 26,
+            "event_presence": 10,
+            "partnership_value": 69,
+            "community_standing": 59,
+            "authenticity": 87,
+            "brand_integration": 11,
+            "professionalism": 67,
+            "brand_safety": 43,
+            "versatility": 11,
+            "content_innovation": 25,
+            "platform_pioneering": 48,
+            "format_evolution": 89,
+            "tech_integration": 68,
+            "trend_setting": 67,
+            "platform_expertise": 72,
+            "seo_understanding": 26,
+            "analytics_usage": 29,
+            "tech_adaptability": 80,
+            "cross_platform_skills": 55
+        }
+    },
+    {
+        "name": "Madison Howard",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/madison_howard.jpg",
+        "overall_score": 77,
+        "age": 22,
+        "followers": "986K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2746",
+        "years_active": 4,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3210,
+                    4070,
+                    2880,
+                    4422,
+                    3315,
+                    1484
+                ],
+                "engagement": [
+                    5441,
+                    6319,
+                    6179,
+                    8104,
+                    9542,
+                    3682
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    94,
+                    95,
+                    70,
+                    78,
+                    95
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 63,
+            "audience_engagement": 38,
+            "brand_value": 69,
+            "technical_skills": 80,
+            "marketing_impact": 74,
+            "networking": 64,
+            "innovation": 34
+        },
+        "detailed_attributes": {
+            "creativity": 86,
+            "production_quality": 94,
+            "consistency": 58,
+            "storytelling": 87,
+            "visual_style": 22,
+            "conversion_rate": 42,
+            "target_accuracy": 33,
+            "campaign_innovation": 61,
+            "market_awareness": 75,
+            "trend_leverage": 94,
+            "community_management": 86,
+            "response_time": 92,
+            "audience_retention": 85,
+            "call_to_action": 80,
+            "audience_growth": 0,
+            "collaboration_quality": 100,
+            "industry_connections": 31,
+            "event_presence": 3,
+            "partnership_value": 20,
+            "community_standing": 81,
+            "authenticity": 83,
+            "brand_integration": 51,
+            "professionalism": 39,
+            "brand_safety": 43,
+            "versatility": 97,
+            "content_innovation": 70,
+            "platform_pioneering": 19,
+            "format_evolution": 55,
+            "tech_integration": 60,
+            "trend_setting": 11,
+            "platform_expertise": 43,
+            "seo_understanding": 27,
+            "analytics_usage": 39,
+            "tech_adaptability": 31,
+            "cross_platform_skills": 29
+        }
+    },
+    {
+        "name": "Noah Bennett",
+        "category": "Fashion",
+        "profile_picture": "https://example.com/profile_pictures/noah_bennett.jpg",
+        "overall_score": 14,
+        "age": 37,
+        "followers": "4412K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2391",
+        "years_active": 4,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2280,
+                    2391,
+                    2122,
+                    860,
+                    3222,
+                    1458
+                ],
+                "engagement": [
+                    4593,
+                    4890,
+                    3890,
+                    9083,
+                    1339,
+                    2631
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    51,
+                    83,
+                    78,
+                    63,
+                    92
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 17,
+            "audience_engagement": 10,
+            "brand_value": 40,
+            "technical_skills": 61,
+            "marketing_impact": 8,
+            "networking": 42,
+            "innovation": 34
+        },
+        "detailed_attributes": {
+            "creativity": 50,
+            "production_quality": 28,
+            "consistency": 9,
+            "storytelling": 67,
+            "visual_style": 28,
+            "conversion_rate": 18,
+            "target_accuracy": 33,
+            "campaign_innovation": 82,
+            "market_awareness": 53,
+            "trend_leverage": 4,
+            "community_management": 17,
+            "response_time": 50,
+            "audience_retention": 53,
+            "call_to_action": 94,
+            "audience_growth": 74,
+            "collaboration_quality": 99,
+            "industry_connections": 37,
+            "event_presence": 64,
+            "partnership_value": 19,
+            "community_standing": 94,
+            "authenticity": 11,
+            "brand_integration": 80,
+            "professionalism": 97,
+            "brand_safety": 20,
+            "versatility": 61,
+            "content_innovation": 74,
+            "platform_pioneering": 45,
+            "format_evolution": 93,
+            "tech_integration": 83,
+            "trend_setting": 57,
+            "platform_expertise": 12,
+            "seo_understanding": 68,
+            "analytics_usage": 96,
+            "tech_adaptability": 71,
+            "cross_platform_skills": 76
+        }
+    },
+    {
+        "name": "Olivia Gray",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/olivia_gray.jpg",
+        "overall_score": 45,
+        "age": 38,
+        "followers": "361K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2318",
+        "years_active": 2,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1790,
+                    877,
+                    1292,
+                    4033,
+                    1728,
+                    1098
+                ],
+                "engagement": [
+                    1970,
+                    2557,
+                    3907,
+                    1665,
+                    5451,
+                    4983
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    60,
+                    61,
+                    71,
+                    84,
+                    97
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 27,
+            "audience_engagement": 71,
+            "brand_value": 89,
+            "technical_skills": 18,
+            "marketing_impact": 22,
+            "networking": 81,
+            "innovation": 17
+        },
+        "detailed_attributes": {
+            "creativity": 89,
+            "production_quality": 34,
+            "consistency": 42,
+            "storytelling": 29,
+            "visual_style": 88,
+            "conversion_rate": 10,
+            "target_accuracy": 18,
+            "campaign_innovation": 17,
+            "market_awareness": 21,
+            "trend_leverage": 90,
+            "community_management": 4,
+            "response_time": 39,
+            "audience_retention": 2,
+            "call_to_action": 47,
+            "audience_growth": 38,
+            "collaboration_quality": 13,
+            "industry_connections": 27,
+            "event_presence": 28,
+            "partnership_value": 27,
+            "community_standing": 69,
+            "authenticity": 21,
+            "brand_integration": 1,
+            "professionalism": 81,
+            "brand_safety": 47,
+            "versatility": 2,
+            "content_innovation": 92,
+            "platform_pioneering": 3,
+            "format_evolution": 14,
+            "tech_integration": 65,
+            "trend_setting": 93,
+            "platform_expertise": 3,
+            "seo_understanding": 41,
+            "analytics_usage": 78,
+            "tech_adaptability": 85,
+            "cross_platform_skills": 59
+        }
+    },
+    {
+        "name": "Patrick Evans",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/patrick_evans.jpg",
+        "overall_score": 40,
+        "age": 45,
+        "followers": "4066K",
+        "profession": "Content Creator",
+        "rate_per_post": "$3575",
+        "years_active": 10,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    2072,
+                    1595,
+                    3054,
+                    957,
+                    3644,
+                    1931
+                ],
+                "engagement": [
+                    5717,
+                    4695,
+                    2633,
+                    3470,
+                    3060,
+                    4966
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    67,
+                    90,
+                    76,
+                    76,
+                    65
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 87,
+            "audience_engagement": 51,
+            "brand_value": 95,
+            "technical_skills": 19,
+            "marketing_impact": 100,
+            "networking": 67,
+            "innovation": 82
+        },
+        "detailed_attributes": {
+            "creativity": 68,
+            "production_quality": 58,
+            "consistency": 3,
+            "storytelling": 94,
+            "visual_style": 24,
+            "conversion_rate": 92,
+            "target_accuracy": 90,
+            "campaign_innovation": 53,
+            "market_awareness": 82,
+            "trend_leverage": 28,
+            "community_management": 10,
+            "response_time": 29,
+            "audience_retention": 34,
+            "call_to_action": 1,
+            "audience_growth": 47,
+            "collaboration_quality": 56,
+            "industry_connections": 62,
+            "event_presence": 63,
+            "partnership_value": 26,
+            "community_standing": 75,
+            "authenticity": 56,
+            "brand_integration": 40,
+            "professionalism": 25,
+            "brand_safety": 34,
+            "versatility": 65,
+            "content_innovation": 8,
+            "platform_pioneering": 16,
+            "format_evolution": 1,
+            "tech_integration": 77,
+            "trend_setting": 89,
+            "platform_expertise": 1,
+            "seo_understanding": 8,
+            "analytics_usage": 10,
+            "tech_adaptability": 66,
+            "cross_platform_skills": 16
+        }
+    },
+    {
+        "name": "Quinn Price",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/quinn_price.jpg",
+        "overall_score": 40,
+        "age": 31,
+        "followers": "4721K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1108",
+        "years_active": 18,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3455,
+                    4472,
+                    2729,
+                    3431,
+                    3323,
+                    930
+                ],
+                "engagement": [
+                    5466,
+                    9302,
+                    7390,
+                    2752,
+                    9723,
+                    7006
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    97,
+                    79,
+                    50,
+                    87,
+                    57
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 53,
+            "audience_engagement": 40,
+            "brand_value": 81,
+            "technical_skills": 50,
+            "marketing_impact": 35,
+            "networking": 68,
+            "innovation": 53
+        },
+        "detailed_attributes": {
+            "creativity": 36,
+            "production_quality": 5,
+            "consistency": 9,
+            "storytelling": 34,
+            "visual_style": 58,
+            "conversion_rate": 85,
+            "target_accuracy": 13,
+            "campaign_innovation": 1,
+            "market_awareness": 43,
+            "trend_leverage": 26,
+            "community_management": 30,
+            "response_time": 50,
+            "audience_retention": 89,
+            "call_to_action": 72,
+            "audience_growth": 54,
+            "collaboration_quality": 48,
+            "industry_connections": 63,
+            "event_presence": 61,
+            "partnership_value": 35,
+            "community_standing": 100,
+            "authenticity": 66,
+            "brand_integration": 67,
+            "professionalism": 42,
+            "brand_safety": 95,
+            "versatility": 80,
+            "content_innovation": 55,
+            "platform_pioneering": 85,
+            "format_evolution": 80,
+            "tech_integration": 11,
+            "trend_setting": 33,
+            "platform_expertise": 15,
+            "seo_understanding": 25,
+            "analytics_usage": 88,
+            "tech_adaptability": 57,
+            "cross_platform_skills": 37
+        }
+    },
+    {
+        "name": "Rebecca Parker",
+        "category": "Travel",
+        "profile_picture": "https://example.com/profile_pictures/rebecca_parker.jpg",
+        "overall_score": 57,
+        "age": 41,
+        "followers": "2837K",
+        "profession": "Content Creator",
+        "rate_per_post": "$2872",
+        "years_active": 12,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1008,
+                    4765,
+                    2650,
+                    1981,
+                    4295,
+                    4497
+                ],
+                "engagement": [
+                    9554,
+                    7705,
+                    7464,
+                    1005,
+                    3808,
+                    1543
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    83,
+                    77,
+                    86,
+                    58,
+                    51
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 84,
+            "audience_engagement": 70,
+            "brand_value": 21,
+            "technical_skills": 75,
+            "marketing_impact": 29,
+            "networking": 94,
+            "innovation": 69
+        },
+        "detailed_attributes": {
+            "creativity": 7,
+            "production_quality": 96,
+            "consistency": 29,
+            "storytelling": 75,
+            "visual_style": 42,
+            "conversion_rate": 0,
+            "target_accuracy": 56,
+            "campaign_innovation": 21,
+            "market_awareness": 36,
+            "trend_leverage": 1,
+            "community_management": 57,
+            "response_time": 9,
+            "audience_retention": 91,
+            "call_to_action": 85,
+            "audience_growth": 58,
+            "collaboration_quality": 75,
+            "industry_connections": 53,
+            "event_presence": 64,
+            "partnership_value": 39,
+            "community_standing": 95,
+            "authenticity": 37,
+            "brand_integration": 11,
+            "professionalism": 99,
+            "brand_safety": 13,
+            "versatility": 7,
+            "content_innovation": 36,
+            "platform_pioneering": 15,
+            "format_evolution": 43,
+            "tech_integration": 58,
+            "trend_setting": 91,
+            "platform_expertise": 74,
+            "seo_understanding": 29,
+            "analytics_usage": 33,
+            "tech_adaptability": 47,
+            "cross_platform_skills": 70
+        }
+    },
+    {
+        "name": "Stephen Collins",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/stephen_collins.jpg",
+        "overall_score": 82,
+        "age": 43,
+        "followers": "4941K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4505",
+        "years_active": 6,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3072,
+                    4549,
+                    2846,
+                    1483,
+                    2431,
+                    937
+                ],
+                "engagement": [
+                    8044,
+                    6280,
+                    1467,
+                    9243,
+                    3791,
+                    9707
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    71,
+                    87,
+                    84,
+                    95,
+                    84
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 26,
+            "audience_engagement": 75,
+            "brand_value": 49,
+            "technical_skills": 12,
+            "marketing_impact": 25,
+            "networking": 72,
+            "innovation": 99
+        },
+        "detailed_attributes": {
+            "creativity": 18,
+            "production_quality": 64,
+            "consistency": 27,
+            "storytelling": 74,
+            "visual_style": 6,
+            "conversion_rate": 43,
+            "target_accuracy": 28,
+            "campaign_innovation": 93,
+            "market_awareness": 18,
+            "trend_leverage": 10,
+            "community_management": 85,
+            "response_time": 89,
+            "audience_retention": 8,
+            "call_to_action": 94,
+            "audience_growth": 17,
+            "collaboration_quality": 59,
+            "industry_connections": 83,
+            "event_presence": 82,
+            "partnership_value": 26,
+            "community_standing": 63,
+            "authenticity": 75,
+            "brand_integration": 78,
+            "professionalism": 64,
+            "brand_safety": 87,
+            "versatility": 95,
+            "content_innovation": 89,
+            "platform_pioneering": 11,
+            "format_evolution": 36,
+            "tech_integration": 69,
+            "trend_setting": 42,
+            "platform_expertise": 62,
+            "seo_understanding": 67,
+            "analytics_usage": 99,
+            "tech_adaptability": 23,
+            "cross_platform_skills": 6
+        }
+    },
+    {
+        "name": "Taylor Stewart",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/taylor_stewart.jpg",
+        "overall_score": 39,
+        "age": 50,
+        "followers": "1658K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4982",
+        "years_active": 12,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    4496,
+                    1144,
+                    697,
+                    2470,
+                    3710,
+                    4821
+                ],
+                "engagement": [
+                    4088,
+                    7282,
+                    7962,
+                    1822,
+                    4444,
+                    1917
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    74,
+                    97,
+                    62,
+                    71,
+                    64
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 82,
+            "audience_engagement": 36,
+            "brand_value": 41,
+            "technical_skills": 58,
+            "marketing_impact": 79,
+            "networking": 25,
+            "innovation": 96
+        },
+        "detailed_attributes": {
+            "creativity": 86,
+            "production_quality": 82,
+            "consistency": 19,
+            "storytelling": 72,
+            "visual_style": 11,
+            "conversion_rate": 3,
+            "target_accuracy": 88,
+            "campaign_innovation": 83,
+            "market_awareness": 87,
+            "trend_leverage": 22,
+            "community_management": 83,
+            "response_time": 59,
+            "audience_retention": 57,
+            "call_to_action": 6,
+            "audience_growth": 58,
+            "collaboration_quality": 51,
+            "industry_connections": 39,
+            "event_presence": 22,
+            "partnership_value": 85,
+            "community_standing": 88,
+            "authenticity": 62,
+            "brand_integration": 9,
+            "professionalism": 13,
+            "brand_safety": 66,
+            "versatility": 99,
+            "content_innovation": 15,
+            "platform_pioneering": 76,
+            "format_evolution": 22,
+            "tech_integration": 6,
+            "trend_setting": 72,
+            "platform_expertise": 60,
+            "seo_understanding": 53,
+            "analytics_usage": 27,
+            "tech_adaptability": 46,
+            "cross_platform_skills": 12
+        }
+    },
+    {
+        "name": "Ursula Jenkins",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/ursula_jenkins.jpg",
+        "overall_score": 39,
+        "age": 32,
+        "followers": "4261K",
+        "profession": "Content Creator",
+        "rate_per_post": "$1073",
+        "years_active": 8,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3978,
+                    1275,
+                    3984,
+                    962,
+                    2136,
+                    1637
+                ],
+                "engagement": [
+                    4666,
+                    8858,
+                    3235,
+                    6979,
+                    8838,
+                    7845
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    100,
+                    61,
+                    69,
+                    54,
+                    63
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 20,
+            "audience_engagement": 35,
+            "brand_value": 43,
+            "technical_skills": 80,
+            "marketing_impact": 82,
+            "networking": 26,
+            "innovation": 80
+        },
+        "detailed_attributes": {
+            "creativity": 93,
+            "production_quality": 43,
+            "consistency": 70,
+            "storytelling": 0,
+            "visual_style": 15,
+            "conversion_rate": 28,
+            "target_accuracy": 81,
+            "campaign_innovation": 34,
+            "market_awareness": 7,
+            "trend_leverage": 8,
+            "community_management": 3,
+            "response_time": 29,
+            "audience_retention": 42,
+            "call_to_action": 91,
+            "audience_growth": 15,
+            "collaboration_quality": 96,
+            "industry_connections": 84,
+            "event_presence": 46,
+            "partnership_value": 21,
+            "community_standing": 26,
+            "authenticity": 22,
+            "brand_integration": 7,
+            "professionalism": 80,
+            "brand_safety": 52,
+            "versatility": 71,
+            "content_innovation": 15,
+            "platform_pioneering": 34,
+            "format_evolution": 59,
+            "tech_integration": 82,
+            "trend_setting": 24,
+            "platform_expertise": 19,
+            "seo_understanding": 2,
+            "analytics_usage": 4,
+            "tech_adaptability": 80,
+            "cross_platform_skills": 62
+        }
+    },
+    {
+        "name": "Vincent Russell",
+        "category": "Lifestyle",
+        "profile_picture": "https://example.com/profile_pictures/vincent_russell.jpg",
+        "overall_score": 31,
+        "age": 18,
+        "followers": "878K",
+        "profession": "Content Creator",
+        "rate_per_post": "$54",
+        "years_active": 8,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    1376,
+                    1873,
+                    3992,
+                    1829,
+                    3453,
+                    1023
+                ],
+                "engagement": [
+                    4086,
+                    5989,
+                    3769,
+                    2850,
+                    7301,
+                    7500
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    76,
+                    64,
+                    59,
+                    91,
+                    90
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 22,
+            "audience_engagement": 65,
+            "brand_value": 98,
+            "technical_skills": 18,
+            "marketing_impact": 23,
+            "networking": 6,
+            "innovation": 87
+        },
+        "detailed_attributes": {
+            "creativity": 71,
+            "production_quality": 19,
+            "consistency": 98,
+            "storytelling": 41,
+            "visual_style": 100,
+            "conversion_rate": 43,
+            "target_accuracy": 83,
+            "campaign_innovation": 0,
+            "market_awareness": 61,
+            "trend_leverage": 47,
+            "community_management": 91,
+            "response_time": 84,
+            "audience_retention": 47,
+            "call_to_action": 70,
+            "audience_growth": 47,
+            "collaboration_quality": 45,
+            "industry_connections": 51,
+            "event_presence": 78,
+            "partnership_value": 18,
+            "community_standing": 10,
+            "authenticity": 5,
+            "brand_integration": 65,
+            "professionalism": 68,
+            "brand_safety": 86,
+            "versatility": 11,
+            "content_innovation": 43,
+            "platform_pioneering": 1,
+            "format_evolution": 84,
+            "tech_integration": 35,
+            "trend_setting": 45,
+            "platform_expertise": 17,
+            "seo_understanding": 3,
+            "analytics_usage": 89,
+            "tech_adaptability": 64,
+            "cross_platform_skills": 9
+        }
+    },
+    {
+        "name": "Wendy Patterson",
+        "category": "Tech",
+        "profile_picture": "https://example.com/profile_pictures/wendy_patterson.jpg",
+        "overall_score": 44,
+        "age": 26,
+        "followers": "2468K",
+        "profession": "Content Creator",
+        "rate_per_post": "$438",
+        "years_active": 20,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    3655,
+                    3514,
+                    1089,
+                    2212,
+                    1553,
+                    1840
+                ],
+                "engagement": [
+                    6230,
+                    5195,
+                    6086,
+                    1108,
+                    1605,
+                    2525
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    50,
+                    98,
+                    93,
+                    88,
+                    92
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 86,
+            "audience_engagement": 9,
+            "brand_value": 91,
+            "technical_skills": 72,
+            "marketing_impact": 20,
+            "networking": 28,
+            "innovation": 36
+        },
+        "detailed_attributes": {
+            "creativity": 53,
+            "production_quality": 31,
+            "consistency": 50,
+            "storytelling": 27,
+            "visual_style": 55,
+            "conversion_rate": 51,
+            "target_accuracy": 24,
+            "campaign_innovation": 78,
+            "market_awareness": 21,
+            "trend_leverage": 74,
+            "community_management": 64,
+            "response_time": 31,
+            "audience_retention": 14,
+            "call_to_action": 72,
+            "audience_growth": 80,
+            "collaboration_quality": 77,
+            "industry_connections": 74,
+            "event_presence": 6,
+            "partnership_value": 71,
+            "community_standing": 4,
+            "authenticity": 79,
+            "brand_integration": 34,
+            "professionalism": 3,
+            "brand_safety": 85,
+            "versatility": 25,
+            "content_innovation": 64,
+            "platform_pioneering": 100,
+            "format_evolution": 36,
+            "tech_integration": 28,
+            "trend_setting": 60,
+            "platform_expertise": 0,
+            "seo_understanding": 44,
+            "analytics_usage": 53,
+            "tech_adaptability": 51,
+            "cross_platform_skills": 23
+        }
+    },
+    {
+        "name": "Xavier Cox",
+        "category": "Food",
+        "profile_picture": "https://example.com/profile_pictures/xavier_cox.jpg",
+        "overall_score": 41,
+        "age": 50,
+        "followers": "3851K",
+        "profession": "Content Creator",
+        "rate_per_post": "$4112",
+        "years_active": 17,
+        "analytics": {
+            "followers_vs_engagement": {
+                "months": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun"
+                ],
+                "followers": [
+                    507,
+                    3115,
+                    4293,
+                    3052,
+                    1640,
+                    3152
+                ],
+                "engagement": [
+                    5055,
+                    5551,
+                    6008,
+                    4807,
+                    6187,
+                    9556
+                ]
+            },
+            "overall_trend": {
+                "quarters": [
+                    "Q1 2023",
+                    "Q2 2023",
+                    "Q3 2023",
+                    "Q4 2023",
+                    "Q1 2024"
+                ],
+                "score": [
+                    72,
+                    89,
+                    66,
+                    76,
+                    59
+                ]
+            }
+        },
+        "attributes": {
+            "content_creation": 20,
+            "audience_engagement": 18,
+            "brand_value": 31,
+            "technical_skills": 97,
+            "marketing_impact": 96,
+            "networking": 23,
+            "innovation": 34
+        },
+        "detailed_attributes": {
+            "creativity": 3,
+            "production_quality": 39,
+            "consistency": 95,
+            "storytelling": 19,
+            "visual_style": 67,
+            "conversion_rate": 13,
+            "target_accuracy": 82,
+            "campaign_innovation": 61,
+            "market_awareness": 95,
+            "trend_leverage": 23,
+            "community_management": 66,
+            "response_time": 48,
+            "audience_retention": 53,
+            "call_to_action": 31,
+            "audience_growth": 58,
+            "collaboration_quality": 69,
+            "industry_connections": 65,
+            "event_presence": 39,
+            "partnership_value": 66,
+            "community_standing": 97,
+            "authenticity": 58,
+            "brand_integration": 33,
+            "professionalism": 55,
+            "brand_safety": 43,
+            "versatility": 27,
+            "content_innovation": 9,
+            "platform_pioneering": 21,
+            "format_evolution": 89,
+            "tech_integration": 92,
+            "trend_setting": 17,
+            "platform_expertise": 19,
+            "seo_understanding": 68,
+            "analytics_usage": 7,
+            "tech_adaptability": 84,
+            "cross_platform_skills": 13
+        }
+    }
+]

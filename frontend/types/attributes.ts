@@ -8,7 +8,7 @@ export type AttributeHeader = {
 
 export const ATTRIBUTE_HEADERS: AttributeHeader[] = [
   {
-    name: "Content Creation",
+    name: "Content Creator",
     attributes: [
       { name: "Creativity", rating: 85 },
       { name: "Production Quality", rating: 88 },

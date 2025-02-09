@@ -26,12 +26,14 @@ const addInfluencerProfile = async (req, res) => {
         }
 
         try {
+            // Parse contentCreation if it exists in the request
+            const contentCreation = req.body.contentCreation ? JSON.parse(req.body.contentCreation) : {};
+            
             const {
                 name,
                 email,
                 category,
                 overallScore,
-                contentCreation,
                 audienceEngagement,
                 brandValue,
                 technicalSkills,
@@ -54,13 +56,36 @@ const addInfluencerProfile = async (req, res) => {
 
                 if (profileImage) existingInfluencer.profileImage = profileImage; // Update image if provided
 
-                existingInfluencer.contentCreation = { ...existingInfluencer.contentCreation, ...contentCreation };
-                existingInfluencer.audienceEngagement = { ...existingInfluencer.audienceEngagement, ...audienceEngagement };
-                existingInfluencer.brandValue = { ...existingInfluencer.brandValue, ...brandValue };
-                existingInfluencer.technicalSkills = { ...existingInfluencer.technicalSkills, ...technicalSkills };
-                existingInfluencer.marketingImpact = { ...existingInfluencer.marketingImpact, ...marketingImpact };
-                existingInfluencer.networking = { ...existingInfluencer.networking, ...networking };
-                existingInfluencer.innovation = { ...existingInfluencer.innovation, ...innovation };
+                // Ensure proper merging
+                existingInfluencer.contentCreation = { 
+                    ...existingInfluencer.contentCreation, 
+                    ...contentCreation 
+                };
+
+                existingInfluencer.audienceEngagement = { 
+                    ...existingInfluencer.audienceEngagement, 
+                    ...audienceEngagement 
+                };
+                existingInfluencer.brandValue = { 
+                    ...existingInfluencer.brandValue, 
+                    ...brandValue 
+                };
+                existingInfluencer.technicalSkills = { 
+                    ...existingInfluencer.technicalSkills, 
+                    ...technicalSkills 
+                };
+                existingInfluencer.marketingImpact = { 
+                    ...existingInfluencer.marketingImpact, 
+                    ...marketingImpact 
+                };
+                existingInfluencer.networking = { 
+                    ...existingInfluencer.networking, 
+                    ...networking 
+                };
+                existingInfluencer.innovation = { 
+                    ...existingInfluencer.innovation, 
+                    ...innovation 
+                };
 
                 if (growthTrends?.followers) {
                     existingInfluencer.growthTrends.followers = growthTrends.followers;
@@ -90,7 +115,7 @@ const addInfluencerProfile = async (req, res) => {
                 category,
                 overallScore,
                 profileImage,
-                contentCreation,
+                contentCreation, // Now correctly parsed
                 audienceEngagement,
                 brandValue,
                 technicalSkills,
@@ -107,6 +132,7 @@ const addInfluencerProfile = async (req, res) => {
         }
     });
 };
+
 
 
 //Removing a favorite (CRUD 2)
